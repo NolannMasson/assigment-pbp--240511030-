@@ -1,3 +1,5 @@
+Nama  : Arifin Firdaus
+Kelas : TI24E
 
 # Analisis Komparatif Platform Web, Desktop, dan Mobile
 
