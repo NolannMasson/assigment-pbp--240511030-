@@ -7,10 +7,10 @@ Perkembangan teknologi menghasilkan berbagai platform yang digunakan untuk memba
 
 ## 2. Tabel Perbandingan Platform
 
-| Aspek        | Web                                                                                | Desktop                                                                | Mobile                       |
-|              |                                                                                    |                                                                        |
+| Aspek | Web | Desktop | Mobile |
+|---|---|---|---|
 | Bahasa utama | HTML, CSS, dan JavaScript untuk antarmuka web; bahasa sisi server dapat bervariasi | C#, Java, C++, Python, dan bahasa lain sesuai teknologi yang digunakan | Kotlin dan Java untuk Android, Swift untuk iOS, serta Dart untuk aplikasi Flutter |
-| Arsitektur   | Umumnya menggunakan model client-server. Browser menampilkan antarmuka dan dapat bertukar data dengan server | Program berjalan pada sistem operasi komputer. Aplikasi dapat memproses data secara lokal atau terhubung ke server | Aplikasi berjalan pada sistem operasi perangkat seluler dan dapat berkomunikasi dengan layanan server |
+| Arsitektur | Umumnya menggunakan model client-server. Browser menampilkan antarmuka dan dapat bertukar data dengan server | Program berjalan pada sistem operasi komputer. Aplikasi dapat memproses data secara lokal atau terhubung ke server | Aplikasi berjalan pada sistem operasi perangkat seluler dan dapat berkomunikasi dengan layanan server |
 | Cara distribusi | Dipublikasikan pada server dan diakses melalui alamat URL menggunakan browser | Didistribusikan melalui installer, situs pengembang, atau toko aplikasi desktop | Didistribusikan melalui toko aplikasi seperti Google Play Store dan Apple App Store, atau melalui metode lain yang didukung |
 | Keunggulan | Mudah diakses melalui browser, pembaruan dapat dilakukan pada server, dan dapat menjangkau berbagai perangkat | Dapat memanfaatkan kemampuan komputer, mendukung pekerjaan kompleks, serta memungkinkan pemrosesan lokal | Mudah dibawa, dirancang untuk penggunaan saat bepergian, dan dapat memanfaatkan fitur seperti kamera, GPS, serta notifikasi |
 | Keterbatasan | Akses terhadap fitur perangkat tertentu dapat dibatasi browser. Penggunaan fitur daring bergantung pada koneksi dan layanan server | Perlu memperhatikan kompatibilitas sistem operasi, proses instalasi, dan kebutuhan perangkat keras | Harus mempertimbangkan variasi ukuran layar, konsumsi baterai, izin akses perangkat, serta perbedaan versi sistem operasi |
@@ -37,4 +37,3 @@ Web, Desktop, dan Mobile mempunyai kelebihan serta keterbatasan masing-masing. W
 2. Microsoft Learn. (n.d.). *Windows app development documentation*. Diakses 22 Oktober 2026, dari https://learn.microsoft.com/en-us/windows/apps/desktop
 
 3. Android Developers. (n.d.). *Application fundamentals*. Diakses 22 Oktober 2026, dari https://developer.android.com/guide/components/fundamentals
-
